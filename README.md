@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Khawar Aslam and I'm a Software Engineer working with Ruby on Rails.
+My name is Khawar Aslam and I'm a Software Engineer working with Ruby on Rails and Rect Js.
 
 [![Max's GitHub stats](https://github-stats-alpha.vercel.app/api?username=mkhawaraslam&cc=000&tc=fff&ic=fff&bc=000 "mkhawaraslam")](https://github-stats-alpha.vercel.app/api?username=mkhawaraslam "Khawar Aslam")
 
